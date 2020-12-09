@@ -1,0 +1,195 @@
+2020-11-17 23:23:28.9047|INFO|NorthwindConsole.Program|Program started
+2020-11-17 23:23:29.0122|INFO|NorthwindConsole.Program|Program ended
+2020-11-18 01:27:21.5811|INFO|NorthwindConsole.Program|Program started
+2020-11-18 01:27:28.7134|INFO|NorthwindConsole.Program|Program ended
+2020-11-18 01:41:47.4940|INFO|NorthwindConsole.Program|Program started
+2020-11-18 01:41:49.7852|INFO|NorthwindConsole.Program|Option 1 selected
+2020-11-18 01:41:54.4711|INFO|NorthwindConsole.Program|Option 2 selected
+2020-11-18 01:46:20.9188|INFO|NorthwindConsole.Program|Option 2 selected
+2020-11-18 01:46:27.0342|INFO|NorthwindConsole.Program|Option  selected
+2020-11-18 01:46:32.1602|INFO|NorthwindConsole.Program|Option 2 selected
+2020-11-18 01:47:01.6759|INFO|NorthwindConsole.Program|Option 1 selected
+2020-11-18 01:47:43.7344|ERROR|NorthwindConsole.Program|A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2020-11-18 01:47:43.7388|INFO|NorthwindConsole.Program|Program ended
+2020-11-18 01:48:01.0874|INFO|NorthwindConsole.Program|Program started
+2020-11-18 01:48:02.7150|INFO|NorthwindConsole.Program|Option 1 selected
+2020-11-18 01:48:45.5632|ERROR|NorthwindConsole.Program|A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2020-11-18 01:48:45.5685|INFO|NorthwindConsole.Program|Program ended
+2020-11-18 01:54:00.5450|INFO|NorthwindConsole.Program|Program started
+2020-11-18 01:54:06.9929|INFO|NorthwindConsole.Program|Option 2 selected
+2020-11-18 01:54:22.1177|INFO|NorthwindConsole.Program|Validation passed
+2020-11-18 01:54:23.2759|ERROR|NorthwindConsole.Program|CategoryName : Name exists
+2020-11-18 01:57:10.7975|INFO|NorthwindConsole.Program|Option q selected
+2020-11-18 01:57:10.8550|INFO|NorthwindConsole.Program|Program ended
+2020-11-18 01:57:14.6884|INFO|NorthwindConsole.Program|Program started
+2020-11-18 01:57:16.3998|INFO|NorthwindConsole.Program|Option 3 selected
+2020-11-18 01:57:34.6580|INFO|NorthwindConsole.Program|CategoryId 3 selected
+2020-11-18 16:35:20.9643|INFO|NorthwindConsole.Program|Program started
+2020-11-18 16:35:26.6716|INFO|NorthwindConsole.Program|Option 1 selected
+2020-11-18 16:35:32.6196|INFO|NorthwindConsole.Program|Option 2 selected
+2020-11-18 16:35:39.8201|INFO|NorthwindConsole.Program|Validation passed
+2020-11-18 16:35:39.9906|INFO|NorthwindConsole.Program|Validation passed
+2020-11-18 16:35:42.9645|INFO|NorthwindConsole.Program|Option 1 selected
+2020-11-18 16:35:52.0808|INFO|NorthwindConsole.Program|Option 3 selected
+2020-11-18 16:35:58.5483|INFO|NorthwindConsole.Program|CategoryId 7 selected
+2020-11-18 16:36:07.4508|INFO|NorthwindConsole.Program|Option 4 selected
+2020-11-18 16:36:16.8237|INFO|NorthwindConsole.Program|Option 2 selected
+2020-11-18 16:36:24.8546|INFO|NorthwindConsole.Program|Validation passed
+2020-11-18 16:36:24.8854|INFO|NorthwindConsole.Program|Validation passed
+2020-11-18 16:36:28.8345|INFO|NorthwindConsole.Program|Option 1 selected
+2020-11-18 19:00:11.0348|INFO|NorthwindConsole.Program|Program started
+2020-11-19 15:40:47.7949|INFO|NorthwindConsole.Program|Option 4 selected
+2020-11-19 15:42:20.6480|INFO|NorthwindConsole.Program|Option 4 selected
+2020-12-06 00:00:53.5756|INFO|NorthwindConsole.Program|Program started
+2020-12-06 00:01:03.8947|INFO|NorthwindConsole.Program|Program started
+2020-12-06 00:01:08.2459|INFO|NorthwindConsole.Program|Option 1 selected
+2020-12-06 01:17:02.4034|INFO|NorthwindConsole.Program|Option 2 selected
+2020-12-06 01:17:15.5427|INFO|NorthwindConsole.Program|Validation passed
+2020-12-06 01:17:16.0414|INFO|NorthwindConsole.Program|Validation passed
+2020-12-06 01:17:19.2149|INFO|NorthwindConsole.Program|Option 1 selected
+2020-12-06 01:18:04.3721|INFO|NorthwindConsole.Program|Option 1 selected
+2020-12-06 01:19:20.1545|INFO|NorthwindConsole.Program|Option 2 selected
+2020-12-06 01:19:34.2152|INFO|NorthwindConsole.Program|Validation passed
+2020-12-06 01:19:34.3176|INFO|NorthwindConsole.Program|Validation passed
+2020-12-06 01:19:37.9061|INFO|NorthwindConsole.Program|Option 1 selected
+2020-12-06 01:52:04.3389|INFO|NorthwindConsole.Program|Program started
+2020-12-06 01:52:46.4217|INFO|NorthwindConsole.Program|Program started
+2020-12-06 01:52:54.8619|INFO|NorthwindConsole.Program|Program started
+2020-12-06 01:52:59.2099|INFO|NorthwindConsole.Program|Option 2 selected
+2020-12-06 01:53:07.4486|INFO|NorthwindConsole.Program|Validation passed
+2020-12-06 01:53:08.8904|INFO|NorthwindConsole.Program|Validation passed
+2020-12-06 01:53:33.5735|INFO|NorthwindConsole.Program|Program started
+2020-12-06 01:53:45.8672|INFO|NorthwindConsole.Program|Option 2 selected
+2020-12-06 01:53:48.7461|INFO|NorthwindConsole.Program|Validation passed
+2020-12-06 01:53:48.9808|INFO|NorthwindConsole.Program|Validation passed
+2020-12-06 01:53:53.8629|INFO|NorthwindConsole.Program|Option 1 selected
+2020-12-06 01:58:29.6168|INFO|NorthwindConsole.Program|Option q selected
+2020-12-06 01:58:29.7425|INFO|NorthwindConsole.Program|Program ended
+2020-12-06 01:58:34.3302|INFO|NorthwindConsole.Program|Program started
+2020-12-06 01:58:37.7384|INFO|NorthwindConsole.Program|Option 2 selected
+2020-12-06 01:58:44.7141|INFO|NorthwindConsole.Program|Validation passed
+2020-12-06 01:58:45.8575|INFO|NorthwindConsole.Program|Validation passed
+2020-12-06 01:58:47.7480|INFO|NorthwindConsole.Program|Option 1 selected
+2020-12-06 01:58:58.6148|INFO|NorthwindConsole.Program|Option q selected
+2020-12-06 01:58:58.6643|INFO|NorthwindConsole.Program|Program ended
+2020-12-06 01:59:02.0399|INFO|NorthwindConsole.Program|Program started
+2020-12-06 01:59:03.1082|INFO|NorthwindConsole.Program|Option 1 selected
+2020-12-06 02:42:03.7566|INFO|NorthwindConsole.Program|Option q selected
+2020-12-06 02:42:03.9418|INFO|NorthwindConsole.Program|Program ended
+2020-12-06 02:42:09.4800|INFO|NorthwindConsole.Program|Program started
+2020-12-06 02:42:29.5893|INFO|NorthwindConsole.Program|Option q selected
+2020-12-06 02:42:30.1605|INFO|NorthwindConsole.Program|Program ended
+2020-12-06 02:42:34.2163|INFO|NorthwindConsole.Program|Program started
+2020-12-06 02:42:39.7189|INFO|NorthwindConsole.Program|Option 5 selected
+2020-12-06 02:43:56.2655|INFO|NorthwindConsole.Program|Validation passed
+2020-12-06 02:43:58.5372|INFO|NorthwindConsole.Program|Validation passed
+2020-12-06 20:39:01.3312|INFO|NorthwindConsole.Program|Option q selected
+2020-12-06 20:39:01.3806|INFO|NorthwindConsole.Program|Program ended
+2020-12-06 20:39:16.9482|INFO|NorthwindConsole.Program|Program started
+2020-12-06 20:42:37.7743|INFO|NorthwindConsole.Program|Option q selected
+2020-12-06 20:42:37.8085|INFO|NorthwindConsole.Program|Program ended
+2020-12-06 20:42:46.7616|INFO|NorthwindConsole.Program|Program started
+2020-12-06 20:42:49.1756|INFO|NorthwindConsole.Program|Option 6 selected
+2020-12-06 20:43:30.4137|INFO|NorthwindConsole.Program|Program started
+2020-12-06 20:43:42.9121|INFO|NorthwindConsole.Program|Option 3 selected
+2020-12-06 20:43:52.3509|INFO|NorthwindConsole.Program|CategoryId 1 selected
+2020-12-06 20:44:21.1765|INFO|NorthwindConsole.Program|Option 6 selected
+2020-12-06 20:45:25.5974|INFO|NorthwindConsole.Program|Validation passed
+2020-12-06 20:45:25.8863|INFO|NorthwindConsole.Program|Validation passed
+2020-12-06 20:45:35.3009|INFO|NorthwindConsole.Program|Option 3 selected
+2020-12-06 20:45:36.5433|INFO|NorthwindConsole.Program|CategoryId 1 selected
+2020-12-06 20:46:44.7630|INFO|NorthwindConsole.Program|Option q selected
+2020-12-06 20:46:44.7681|INFO|NorthwindConsole.Program|Program ended
+2020-12-06 20:46:53.1094|INFO|NorthwindConsole.Program|Program started
+2020-12-06 20:47:10.2700|INFO|NorthwindConsole.Program|Option 3 selected
+2020-12-06 20:47:18.2087|INFO|NorthwindConsole.Program|CategoryId 2 selected
+2020-12-06 21:50:37.2885|INFO|NorthwindConsole.Program|Option q selected
+2020-12-06 21:50:37.2885|INFO|NorthwindConsole.Program|Program ended
+2020-12-06 21:50:49.3904|INFO|NorthwindConsole.Program|Program started
+2020-12-06 21:50:52.8889|INFO|NorthwindConsole.Program|Option 7 selected
+2020-12-06 21:51:04.9687|INFO|NorthwindConsole.Program|Option  selected
+2020-12-06 21:51:14.3704|INFO|NorthwindConsole.Program|Option 7 selected
+2020-12-06 21:51:27.1107|INFO|NorthwindConsole.Program|Option 7 selected
+2020-12-06 21:52:11.6028|INFO|NorthwindConsole.Program|Option q selected
+2020-12-06 21:52:11.6028|INFO|NorthwindConsole.Program|Program ended
+2020-12-06 21:52:21.0367|INFO|NorthwindConsole.Program|Program started
+2020-12-06 21:52:24.6017|INFO|NorthwindConsole.Program|Option 7 selected
+2020-12-06 22:07:25.1164|INFO|NorthwindConsole.Program|Option q selected
+2020-12-06 22:07:25.1164|INFO|NorthwindConsole.Program|Program ended
+2020-12-06 22:07:36.1692|INFO|NorthwindConsole.Program|Program started
+2020-12-06 22:07:39.0785|INFO|NorthwindConsole.Program|Option 8 selected
+2020-12-06 22:07:43.4872|INFO|NorthwindConsole.Program|Option 8 selected
+2020-12-06 22:07:45.0143|INFO|NorthwindConsole.Program|Option 8 selected
+2020-12-06 22:07:45.5231|INFO|NorthwindConsole.Program|Option 8 selected
+2020-12-06 22:07:45.9969|INFO|NorthwindConsole.Program|Option 8 selected
+2020-12-06 22:07:49.0639|INFO|NorthwindConsole.Program|Option q selected
+2020-12-06 22:07:49.0639|INFO|NorthwindConsole.Program|Program ended
+2020-12-06 22:09:59.7584|INFO|NorthwindConsole.Program|Program started
+2020-12-06 22:10:02.2261|INFO|NorthwindConsole.Program|Option 8 selected
+2020-12-06 22:10:05.7640|INFO|NorthwindConsole.Program|Option 8 selected
+2020-12-06 22:10:06.5438|INFO|NorthwindConsole.Program|Option 8 selected
+2020-12-06 22:10:08.4169|INFO|NorthwindConsole.Program|Option q selected
+2020-12-06 22:10:08.4169|INFO|NorthwindConsole.Program|Program ended
+2020-12-06 22:10:54.5837|INFO|NorthwindConsole.Program|Program started
+2020-12-06 22:10:56.8924|INFO|NorthwindConsole.Program|Option 8 selected
+2020-12-06 23:12:18.1145|INFO|NorthwindConsole.Program|Option q selected
+2020-12-06 23:12:18.2119|INFO|NorthwindConsole.Program|Program ended
+2020-12-06 23:12:24.7744|INFO|NorthwindConsole.Program|Program started
+2020-12-06 23:12:30.2089|INFO|NorthwindConsole.Program|Option 6 selected
+2020-12-06 23:13:22.3708|INFO|NorthwindConsole.Program|Option 7 selected
+2020-12-06 23:13:55.1710|INFO|NorthwindConsole.Program|Option 9 selected
+2020-12-06 23:15:25.5443|INFO|NorthwindConsole.Program|Option 1 selected
+2020-12-06 23:27:26.0775|INFO|NorthwindConsole.Program|Option q selected
+2020-12-06 23:27:26.0802|INFO|NorthwindConsole.Program|Program ended
+2020-12-06 23:27:31.2189|INFO|NorthwindConsole.Program|Program started
+2020-12-06 23:31:20.3609|INFO|NorthwindConsole.Program|Option q selected
+2020-12-06 23:31:20.3636|INFO|NorthwindConsole.Program|Program ended
+2020-12-06 23:31:24.9557|INFO|NorthwindConsole.Program|Program started
+2020-12-06 23:31:27.8766|INFO|NorthwindConsole.Program|Option 10 selected
+2020-12-06 23:32:37.4488|INFO|NorthwindConsole.Program|Option 3 selected
+2020-12-06 23:32:41.9260|INFO|NorthwindConsole.Program|CategoryId 2 selected
+2020-12-06 23:35:35.3142|INFO|NorthwindConsole.Program|Option q selected
+2020-12-06 23:35:35.3142|INFO|NorthwindConsole.Program|Program ended
+2020-12-06 23:35:40.2349|INFO|NorthwindConsole.Program|Program started
+2020-12-06 23:35:42.2135|INFO|NorthwindConsole.Program|Option 11 selected
+2020-12-06 23:35:47.6126|INFO|NorthwindConsole.Program|CategoryId 1 selected
+2020-12-07 00:00:57.3909|INFO|NorthwindConsole.Program|Option q selected
+2020-12-07 00:00:57.3937|INFO|NorthwindConsole.Program|Program ended
+2020-12-07 00:01:01.8500|INFO|NorthwindConsole.Program|Program started
+2020-12-07 00:01:07.8825|INFO|NorthwindConsole.Program|Option 10 selected
+2020-12-07 00:01:09.1394|INFO|NorthwindConsole.Program|Displayed all categories and thier active products
+2020-12-09 16:30:19.1713|INFO|NorthwindConsole.Program|Program started
+2020-12-09 16:30:22.1545|INFO|NorthwindConsole.Program|Option 1 selected
+2020-12-09 16:30:30.8163|INFO|NorthwindConsole.Program|Categories displayed
+2020-12-09 16:30:34.7686|INFO|NorthwindConsole.Program|Option 2 selected
+2020-12-09 16:30:47.6041|INFO|NorthwindConsole.Program|Validation passed
+2020-12-09 16:30:47.7837|INFO|NorthwindConsole.Program|Validation passed
+2020-12-09 16:30:49.3582|INFO|NorthwindConsole.Program|Option 1 selected
+2020-12-09 16:30:49.5521|INFO|NorthwindConsole.Program|Categories displayed
+2020-12-09 16:30:55.3818|INFO|NorthwindConsole.Program|Option 3 selected
+2020-12-09 16:30:57.8918|INFO|NorthwindConsole.Program|CategoryId 2 selected
+2020-12-09 16:31:02.2511|INFO|NorthwindConsole.Program|Option 4 selected
+2020-12-09 16:31:02.3249|INFO|NorthwindConsole.Program|All categories displayed without error
+2020-12-09 16:31:11.0863|INFO|NorthwindConsole.Program|Option 5 selected
+2020-12-09 16:31:51.5142|INFO|NorthwindConsole.Program|Validation passed
+2020-12-09 16:31:51.5842|INFO|NorthwindConsole.Program|Validation passed
+2020-12-09 16:31:51.7528|INFO|NorthwindConsole.Program|Added new product, Test Product
+2020-12-09 16:31:57.6346|INFO|NorthwindConsole.Program|Option 6 selected
+2020-12-09 16:32:40.3241|INFO|NorthwindConsole.Program|Product Chai edited
+2020-12-09 16:32:50.0622|INFO|NorthwindConsole.Program|Option 7 selected
+2020-12-09 16:32:57.1124|INFO|NorthwindConsole.Program|All products displayed
+2020-12-09 16:33:12.9850|INFO|NorthwindConsole.Program|Option 7 selected
+2020-12-09 16:33:15.0975|INFO|NorthwindConsole.Program|All active products displayed
+2020-12-09 16:33:21.8753|INFO|NorthwindConsole.Program|Option 7 selected
+2020-12-09 16:33:24.2524|INFO|NorthwindConsole.Program|All Discontinued products displayed
+2020-12-09 16:33:29.5681|INFO|NorthwindConsole.Program|Option 8 selected
+2020-12-09 16:33:31.8492|INFO|NorthwindConsole.Program|Displayed product: Chai
+2020-12-09 16:33:41.9123|INFO|NorthwindConsole.Program|Option 9 selected
+2020-12-09 16:33:56.1158|INFO|NorthwindConsole.Program|Edited category Beverages
+2020-12-09 16:34:03.2511|INFO|NorthwindConsole.Program|Option 10 selected
+2020-12-09 16:34:03.3103|INFO|NorthwindConsole.Program|Displayed all categories and their active products
+2020-12-09 16:34:21.0146|INFO|NorthwindConsole.Program|Option 11 selected
+2020-12-09 16:34:22.7510|INFO|NorthwindConsole.Program|CategoryId 1 selected
+2020-12-09 16:34:22.7837|INFO|NorthwindConsole.Program|Displayed a category and their active products
+2020-12-09 16:34:31.2081|INFO|NorthwindConsole.Program|Option q selected
+2020-12-09 16:34:31.2102|INFO|NorthwindConsole.Program|Program ended
